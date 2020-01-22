@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MEILLEUR QUIZ</string>
+    <string name="partagerResultat">Partager le résultat</string>
+    <string name="quitterJeu">Quitter le jeu</string>
+    <string name="tonPseudo">Ton pseudo</string>
+    <string name="msgFin">Vous avez eu %1$d bonnes reponses sur %2$d questions.</string>
+    <string name="recordBattu">Le record précédent, établi par %1$s était %2$d / %3$d. Vous avez battu ce record!  Entrez votre pseudo pour remplacer l\'ancien record :</string>
+    <string name="recordEgale">Le record précédent, établi par %1$s était %2$d / %3$d. Vous avez égalé ce record!   Entrez votre pseudo pour remplacer l\'ancien record :</string>
+    <string name="dessousRecord">Le record est actuellement détenu par %1$s avec %2$d / %3$d.   Vous êtes en dessous...</string>
+    <string name="premierRecord">Vous êtes le premier joueur à terminer le quiz. Vous établissez le premier record ! Entrez votre pseudo pour enregistrer ce record :</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="numQ" >Préparez-vous à répondre à 10 questions fascinantes!</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">THE BEST QUIZ</string>
+    <string name="tonPseudo">Your pseudonym</string>
+    <string name="quitterJeu">Quit the game</string>
+    <string name="partagerResultat">Share your score</string>
+    <string name="msgFin">You got %1$d answers right out of %2$d questions.</string>
+    <string name="recordBattu">The previous record, set by %1$s was %2$d / %3$d.You broke the record!  Enter you username to replace the previous record.</string>
+    <string name="recordEgale">The previous record, set by %1$s was %2$d / %3$d.You matched the record!  Enter you username to replace the previous record.</string>
+    <string name="dessousRecord">The record is currently held by %1$s, with a score of  %2$d / %3$d.  Your score is less than his/hers...</string>
+    <string name="premierRecord">You are the first player to complete the game. You have set the first record! Enter your username to save the record.</string>
+    <string name="bienvenue">Welcome</string>
+    <string name="numQ" >Get ready for 10 fascinating questions!</string>
+</resources>
